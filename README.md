@@ -1,2 +1,2 @@
-# Paper-Today-
+# Paper-Today
 A newsletter website.
